@@ -1,4 +1,4 @@
-## 👋Hi, ## 👋 Hi, I'm Arjun Sharma
+ ## 👋 Hi, I'm Arjun Sharma
 
 🎓 B.Tech (Electrical Engineering) @ MITS (DU), Gwalior  
 ⚡ Electrical Machines • Power Systems • MATLAB • ETAP/PSCAD  
